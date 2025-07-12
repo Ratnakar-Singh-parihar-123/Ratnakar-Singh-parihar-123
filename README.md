@@ -34,7 +34,7 @@
 
 - 📧 Email: [ratnakarsinghparihar9399@gmail.com](mailto:ratnakarsinghparihar9399@gmail.com)
 - 💼 LinkedIn: [Ratnakar Singh Parihar](https://www.linkedin.com/in/ratnakar-singh-parihar-a87528260/)
-- 🌐 Portfolio: [Ratnakar Singh Parihar](https://my-portfolio-app-bay-delta.vercel.app/)
+- 🌐 Portfolio: [Ratnakars.dev](https://my-portfolio-app-bay-delta.vercel.app/)
 
 ---
 
