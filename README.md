@@ -33,8 +33,8 @@
 ### 📬 Contact Me
 
 - 📧 Email: [ratnakarsinghparihar9399@gmail.com](mailto:ratnakarsinghparihar9399@gmail.com)
-- 💼 LinkedIn: *Coming Soon*
-- 🌐 Portfolio: *Coming Soon*
+- 💼 LinkedIn: [Ratnakar Singh Parihar](https://www.linkedin.com/in/ratnakar-singh-parihar-a87528260/)
+- 🌐 Portfolio: [Ratnakar Singh Parihar](https://my-portfolio-app-bay-delta.vercel.app/)
 
 ---
 
