@@ -1,29 +1,36 @@
-## 👋 Hi there, I'm Ratnakar Singh Parihar!
-
-> 🚀 A passionate MERN Stack Developer and aspiring Software Engineer from Bhopal, India.
+<h1 align="center">👋 Hey, I'm Ratnakar Singh Parihar</h1>
+<p align="center">🚀 MERN Stack Developer | Aspiring Software Engineer | Passionate Learner</p>
 
 ---
 
-### 💻 About Me
+### 🧑‍💻 About Me
 
-- 🎓 I'm a **fresher** currently exploring the world of full stack development
-- 🌱 Currently sharpening my skills in modern web technologies & backend systems
-- 👨‍💻 I enjoy building clean, responsive, and user-friendly web apps using the **MERN stack**
-- 🤝 Open to **collaborate on projects** and **contribute to open source**
-- 🧠 Always learning something new every day — that's the goal!
+- 🎓 **Fresher** with a strong foundation in full stack web development  
+- 🌍 Based in **Bhopal, India**  
+- 🌱 Currently learning new technologies and sharpening backend skills  
+- 💡 Enthusiastic about building **responsive, user-friendly web apps**  
+- 🤝 Open to collaborating on **projects, internships**, and **open source**  
+- 📚 I believe in learning something new **every single day**  
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-- **Tools**: Git, GitHub, VS Code, Postman
+#### 💻 Frontend
+`React.js` • `HTML` • `CSS` • `JavaScript` • `Tailwind CSS`
+
+#### 🧠 Backend
+`Node.js` • `Express.js`
+
+#### 🗄️ Database
+`MongoDB` • `MySQL`
+
+#### ⚒️ Tools & Platforms
+`Git` • `GitHub` • `VS Code` • `Postman`
 
 ---
 
-### 📬 How to Reach Me
+### 📬 Contact Me
 
 - 📧 Email: [ratnakarsinghparihar9399@gmail.com](mailto:ratnakarsinghparihar9399@gmail.com)
 - 💼 LinkedIn: *Coming Soon*
@@ -34,29 +41,30 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratnakar-Singh-parihar-123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ratnakar-Singh-parihar-123&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ratnakar-Singh-parihar-123&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ratnakar-Singh-parihar-123&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnakar-Singh-parihar-123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnakar-Singh-parihar-123&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 2025 Goals
 
-- 🔍 Get a **Web Development Internship**
-- 💡 Work on innovative **project ideas**
-- 🌐 Make regular **open source contributions**
-- 🧠 Master advanced MERN and DevOps tools
+- 🧑‍💻 Land a **Web Development Internship**
+- 💬 Collaborate on innovative **real-world projects**
+- 🌟 Contribute consistently to **open source**
+- 🧠 Master advanced MERN stack & explore **DevOps tools**
 
 ---
 
 ### ⚡ Fun Fact
 
-> I code better at night with coffee ☕ & React on the screen!
+> I code better at night ☕ with React on one screen and Google on the other!
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's connect and build something awesome together.*
-
+<p align="center">
+  🌟 *Thanks for visiting my profile! Let’s connect and build something amazing together.* 🌟
+</p>
