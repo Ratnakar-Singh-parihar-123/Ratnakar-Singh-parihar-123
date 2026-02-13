@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+👋,+I'm+Ratnakar+Singh+Parihar;MERN+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+👋,+I'm+Ratnakar+Singh+Parihar;Full+Stack+MERN+Developer;React+Native+Enthusiast;Backend+Focused+Engineer;Building+Scalable+Web+%26+Mobile+Applications" />
 </h1>
 
-<h3 align="center">🚀 Transforming Ideas into Scalable & Efficient Web Solutions</h3>
+<h3 align="center">🚀 Transforming Ideas into Scalable Web & Mobile Solutions</h3>
 
 <p align="center">
   <a href="mailto:ratnakarsinghparihar9399@gmail.com">
@@ -31,13 +31,14 @@
 🎓 Software Developer with strong fundamentals in Full Stack Development  
 📍 Based in Bhopal, India  
 🧠 Backend-focused engineer passionate about scalable architecture  
-⚡ Skilled in building production-ready MERN applications  
-📚 Continuously improving in APIs, authentication systems & system design  
+📱 Exploring Cross-Platform Development with React Native  
+⚡ Experienced in building and deploying production-ready applications  
+📚 Continuously improving in APIs, Authentication & System Design  
 🤝 Open to Internships, Real-World Projects & Collaborative Opportunities  
 
 </td>
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230px" />
 </td>
 </tr>
 </table>
@@ -46,9 +47,15 @@
 
 # 🛠 Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend (Web)
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### ⚙ Backend
@@ -61,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🔧 Tools & Deployment
+### 🚀 Deployment & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
@@ -70,11 +77,11 @@
 
 ## 💡 Professional Strengths
 
-✔ RESTful API & Backend Architecture  
+✔ RESTful API & Scalable Backend Architecture  
 ✔ JWT Authentication & Role-Based Access Control  
-✔ Clean, Maintainable & Scalable Code Structure  
-✔ Responsive UI with Performance Optimization  
-✔ Debugging, Testing & Deployment Handling  
+✔ Web & Mobile App Development (MERN + React Native)  
+✔ Clean, Maintainable & Optimized Code  
+✔ Debugging, Testing & Cloud Deployment (Vercel & Render)  
 
 ---
 
@@ -94,10 +101,12 @@
 ```javascript
 const vision2026 = {
   internship: "Secure a high-impact Web Development Internship",
-  productionApps: "Launch multiple production-grade full stack apps",
+  fullStackMastery: "Build scalable Web & Mobile applications",
   openSource: "Become an active Open Source contributor",
-  devOps: "Gain hands-on experience with Docker & CI/CD",
+  cloud: "Gain strong hands-on experience with Render & Cloud Deployment",
   systemDesign: "Strengthen DSA & Backend Architecture mastery"
 };
 
-Object.values(vision2026).forEach(goal => console.log("🚀 " + goal));
+Object.values(vision2026).forEach(goal =>
+  console.log("🚀 " + goal)
+);
