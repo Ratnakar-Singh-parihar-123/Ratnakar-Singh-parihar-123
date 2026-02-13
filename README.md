@@ -1,70 +1,90 @@
-<h1 align="center">👋 Hey, I'm Ratnakar Singh Parihar</h1>
-<p align="center">🚀 MERN Stack Developer | Aspiring Software Engineer | Passionate Learner</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 **Fresher** with a strong foundation in full stack web development  
-- 🌍 Based in **Bhopal, India**  
-- 🌱 Currently learning new technologies and sharpening backend skills  
-- 💡 Enthusiastic about building **responsive, user-friendly web apps**  
-- 🤝 Open to collaborating on **projects, internships**, and **open source**  
-- 📚 I believe in learning something new **every single day**  
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
-`React.js` • `HTML` • `CSS` • `JavaScript` • `Tailwind CSS`
-
-#### 🧠 Backend
-`Node.js` • `Express.js`
-
-#### 🗄️ Database
-`MongoDB` • `MySQL`
-
-#### ⚒️ Tools & Platforms
-`Git` • `GitHub` • `VS Code` • `Postman`
-
----
-
-### 📬 Contact Me
-
-- 📧 Email: [ratnakarsinghparihar9399@gmail.com](mailto:ratnakarsinghparihar9399@gmail.com)
-- 💼 LinkedIn: [Ratnakar Singh Parihar](https://www.linkedin.com/in/ratnakar-singh-parihar-a87528260/)
-- 🌐 Portfolio: [Ratnakars.dev](https://my-portfolio-app-bay-delta.vercel.app/)
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Ratnakar Singh Parihar</h1>
+<h3 align="center">🚀 MERN Stack Developer | Backend Enthusiast | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratnakar-Singh-parihar-123&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ratnakar-Singh-parihar-123&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnakar-Singh-parihar-123&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="mailto:ratnakarsinghparihar9399@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ratnakar-singh-parihar-a87528260/">💼 LinkedIn</a> •
+  <a href="https://my-portfolio-app-bay-delta.vercel.app/">🌐 Portfolio</a>
 </p>
 
 ---
 
-### 🎯 2025 Goals
+## 👨‍💻 About Me
 
-- 🧑‍💻 Land a **Web Development Internship**
-- 💬 Collaborate on innovative **real-world projects**
-- 🌟 Contribute consistently to **open source**
-- 🧠 Master advanced MERN stack & explore **DevOps tools**
+🎓 Passionate **Fresher Software Developer** with strong fundamentals in Full Stack Web Development  
+🌍 Based in **Bhopal, India**  
+🧠 Focused on building **scalable backend systems & responsive frontend applications**  
+⚡ Love solving real-world problems using clean and efficient code  
+📚 Currently improving my **backend architecture, APIs & system design skills**  
+🤝 Open to **Internships, Collaborations & Open Source Contributions**
 
 ---
 
-### ⚡ Fun Fact
+## 🛠️ Tech Stack
 
-> I code better at night ☕ with React on one screen and Google on the other!
+### 💻 Frontend Development
+<p>
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS
+</p>
+
+### ⚙️ Backend Development
+<p>
+Node.js • Express.js • REST APIs • Authentication & Authorization
+</p>
+
+### 🗄️ Databases
+<p>
+MongoDB • MySQL
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+Git • GitHub • VS Code • Postman • Vercel
+</p>
+
+---
+
+## 📌 What I Bring to the Table
+
+✔️ Clean & Maintainable Code  
+✔️ RESTful API Development  
+✔️ Authentication Systems (JWT, Role-based access)  
+✔️ Responsive UI with Modern Design  
+✔️ Real-time features using modern web technologies  
+✔️ Strong debugging & problem-solving skills  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ratnakar-Singh-parihar-123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ratnakar-Singh-parihar-123&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnakar-Singh-parihar-123&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 2025 Goals
+
+🚀 Secure a **Web Development Internship**  
+🛠️ Build 3+ production-ready full stack projects  
+🌍 Contribute consistently to Open Source  
+⚙️ Learn Docker & DevOps fundamentals  
+📚 Strengthen Data Structures & System Design  
+
+---
+
+## 🌙 Fun Fact
+
+> I write my best code at night ☕  
+> React on one screen. Backend logs on the other. Debugging mode: ON 🔥
 
 ---
 
 <p align="center">
-  🌟 *Thanks for visiting my profile! Let’s connect and build something amazing together.* 🌟
+  ⭐ If you like my work, feel free to connect —  
+  Let’s build something impactful together!
 </p>
