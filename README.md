@@ -8,7 +8,7 @@
   <a href="mailto:ratnakarsinghparihar9399@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/ratnakarsinghparihar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ratnakarsinghparihar.vercel.app/">
