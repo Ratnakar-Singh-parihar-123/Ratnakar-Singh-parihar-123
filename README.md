@@ -8,10 +8,10 @@
   <a href="mailto:ratnakarsinghparihar9399@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ratnakar-singh-parihar-a87528260/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-app-bay-delta.vercel.app/">
+  <a href="https://ratnakarsinghparihar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
